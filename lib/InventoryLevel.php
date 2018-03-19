@@ -14,7 +14,7 @@ class InventoryLevel extends ShopifyResource
     /**
      * @inheritDoc
      */
-    protected $resourceKey = 'inventory_levels';
+    protected $resourceKey = 'inventory_level';
 
     /**
      * @inheritDoc
